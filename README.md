@@ -1,4 +1,4 @@
-# Golang and MongoDB CRUD
+# Golang and MongoDB Indexes
 
 Introduction to go-mongo-driver. This as an alternative to the well-known mgo package through a simple CRUD.
 
@@ -33,11 +33,11 @@ go build
 
 Clone the repository
 ```
-git clone git@github.com:orlmonteverde/mongo-golang-crud.git
+git clone git@github.com:orlmonteverde/mongo-golang-indexes.git
 ```
 Enter the repository folder
 ```
-cd mongo-golang-crud
+cd mongo-golang-indexes
 ```
 Build the binary
 ```
@@ -46,10 +46,10 @@ go build
 Run the program
 ```
 # In Unix-like OS
-./mongo-golang-crud
+./mongo-golang-indexes
 
 # In Windows
-mongo-golang-crud.exe
+mongo-golang-indexes.exe
 ```
 
 ## Built With
